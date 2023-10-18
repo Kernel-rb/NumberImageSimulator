@@ -1,16 +1,23 @@
-# dv
+# Phone Buttons App
 
-A new Flutter project.
+A Flutter application that simulates a phone keypad. You can press the buttons to enter a phone number and display an image corresponding to the entered number.
+
+## Features
+
+- Enter a phone number by pressing the buttons.
+- Display an image corresponding to the entered number.
+- Navigate to a new screen to view the displayed image.
+
+## Screenshots
+
+Include screenshots or GIFs of your app in action.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project, you'll need to have Flutter installed on your machine.
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/your-username/phone_buttons_app.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
