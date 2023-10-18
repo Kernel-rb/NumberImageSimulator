@@ -19,5 +19,5 @@ To run this project, you'll need to have Flutter installed on your machine.
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/phone_buttons_app.git
+git clone https://github.com/Kernel-rb/Phone-Buttons-App.git
 
