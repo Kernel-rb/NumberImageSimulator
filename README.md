@@ -1,5 +1,6 @@
-# Phone Keypad Simulator - Flutter App
+# 📞 Phone Keypad Simulator - Flutter App 📷
 
+![App Demo](demo.gif)
 
 This Flutter application simulates a phone keypad, allowing users to press the buttons to enter a phone number and display an image associated with the entered number. This readme provides a brief overview of the app, its features, and instructions on how to run it.
 
