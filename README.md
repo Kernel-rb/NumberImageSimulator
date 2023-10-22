@@ -24,4 +24,4 @@ Follow these steps to get the Phone Keypad Simulator up and running on your loca
 1. Clone the repository to your local machine using Git or download the ZIP file.
 
 ```bash
-git clone 
+git clone https://github.com/Kernel-rb/Phone-Buttons-App.git
